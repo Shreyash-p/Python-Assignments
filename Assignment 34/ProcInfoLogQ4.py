@@ -95,9 +95,9 @@ def main():
 
     if (len(sys.argv) == 3):
 
-        sender = "shreyashpatilai@gmail.com"
+        sender = "_________________@gmail.com"
 
-        app_password = "ffjwsyzsmenugowc"
+        app_password = "xxxx xxxx xxxx xxxx"
 
         subject = f"Duplicate File Removal Report - {datetime.datetime.now().strftime('%d/%m/%Y %H:%M')}"
 
